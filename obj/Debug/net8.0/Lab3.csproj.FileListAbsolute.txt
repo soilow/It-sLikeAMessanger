@@ -1,0 +1,15 @@
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/bin/Debug/net8.0/Lab3.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.csproj.AssemblyReference.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.sourcelink.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab3/obj/Debug/net8.0/ref/Lab3.dll
